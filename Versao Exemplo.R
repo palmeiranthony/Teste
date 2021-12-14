@@ -3,3 +3,8 @@
 # versao 3
 # Texto
 library(tidyverse)
+# Versao 6
+# Versao 7
+mutate()
+rename()
+filter()
